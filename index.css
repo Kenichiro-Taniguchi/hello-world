@@ -1,0 +1,123 @@
+body{
+  margin: 0px;
+}
+
+.title{
+  font-family: "ChopinScript";
+  position:absolute;
+  top: 250px;
+  left: 430px;
+  font-size: 40px;
+  color: white;
+}
+
+.navbar{
+  padding: 5px;
+  height: 80px;
+  background-color: black;
+}
+
+.navbar-btn{
+  margin-top: 27px;
+}
+
+.navbar-btn li{
+  float: left;
+  list-style: none;
+  color: white;
+  margin-right: 70px;
+  margin-left: 70px;
+}
+
+.clear-fix{
+  clear: both;
+}
+
+.head-img{
+  position: relative;
+  width: 100%;
+  margin: 0px;
+
+}
+
+.identify h2,p{
+  text-align: center;
+}
+
+#comment{
+  margin: 0 300px;
+}
+
+.identify-content li{
+  list-style: none;
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.identify-content li p{
+  margin: 0 30px;
+}
+
+.identify-content li img{
+  width: 150px;
+  height: 150px;
+}
+
+.btn-apply{
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.btn-apply button{
+  height: 50px;
+  width: 150px;
+  color: white;
+  background-color: blue;
+  border: 1px solid blue;
+  border-radius: 6px;
+}
+
+.graduate{
+  padding-top: 30px;
+  background-image: url(/Users/kabutomusi/awesome/images/sea.jpg);
+}
+
+.graduate h1{
+  margin-bottom: 40px;
+  color: white;
+}
+
+.graduate h3{
+  width: 70%;
+  margin: 20px auto;
+  padding-bottom: 20px;
+  border-bottom: 2px solid gray;
+}
+
+.graduate-ul li{
+  height: 400px;
+  background-color: white;
+  padding-top: 30px;
+  opacity: 0.9;
+  margin-bottom: 50px;
+}
+
+.map{
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+.map h1{
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+@font-face{
+  font-family: ChopinScript;
+  src:url(/Users/kabutomusi/awesome/font/ChopinScript.ttf);
+}
+
+
+
