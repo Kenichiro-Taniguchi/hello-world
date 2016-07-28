@@ -81,7 +81,7 @@ body{
 
 .graduate{
   padding-top: 30px;
-  background-image: url(/Users/kabutomusi/awesome/images/sea.jpg);
+  background-image: url(images/sea.jpg);
 }
 
 .graduate h1{
@@ -116,7 +116,7 @@ body{
 
 @font-face{
   font-family: ChopinScript;
-  src:url(/Users/kabutomusi/awesome/font/ChopinScript.ttf);
+  src:url(font/ChopinScript.ttf);
 }
 
 
